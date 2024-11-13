@@ -2,7 +2,7 @@
 ## My first repository
 ---
 
-Below are my recommended 🥇 *Animated Fantasy Movie* and *Sci-fi series*:  
+### Below are my recommended 🥇 *Animated Fantasy Movie* and *Sci-fi series*:  
 
 - **Frozen** ❄️: I've loved Frozen since I was a kid, and even now, watching clips still makes my inner child happy 💙. The story was magical, combining magic with deep values, and showing that love and family 💌👨‍👩‍👧‍👦 are at the heart of everything. **Olaf⛄** is my favorite character, he never failed to make me laugh because he has this hilarious way of making the smallest things feel big and exciting.
   
@@ -12,5 +12,6 @@ Below are my recommended 🥇 *Animated Fantasy Movie* and *Sci-fi series*:
 
 Here's the link if you ever want to watch it too!
 
-[The 100 ❄️](https://sflix.to/tv/free-the-100-hd-39551)
+[The 100 ❄️](https://sflix.to/tv/free-the-100-hd-39551)  
+
 [Frozen 🌏](https://sflix.to/movie/free-frozen-hd-19753)
